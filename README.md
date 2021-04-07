@@ -3,5 +3,5 @@ Dynamics of a closed loop system like slider cranke mechanism and Simulation in 
 # Objectives
 1.	Formulate the Inverse and Forward Dynamics of the following closed loop system shown in figure 1.
 2.	Write MATLAB code for Inverse and Forward Dynamics of the closed loop system shown in figure 1.
-
+<img src="figure1.jpg" width="500" height="300">
 
